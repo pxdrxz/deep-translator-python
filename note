@@ -1,0 +1,6 @@
+// Digitar python tradutor_biblioteca.py no terminal para rodar.
+
+// Textos maximos de 5 linhas.
+
+//  O deep-translator envia texto em strings, então você pode precisar dividir textos muito grandes em pedaços menores.
+ Traduzir linhas separadas uma a uma é a forma mais segura.

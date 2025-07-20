@@ -1,5 +1,7 @@
 // Digitar python tradutor_biblioteca.py no terminal para rodar.
 
+// Utilização de biblioteca Deep Translator da Google.
+
 // Textos maximos de 5 linhas.
 
 //  O deep-translator envia texto em strings, então você pode precisar dividir textos muito grandes em pedaços menores.
